@@ -1,2 +1,3 @@
-# NodeJs-Yemek-Tarifleri-Uygulamasi
-NodeJs ile sunucu tarafında hem database ile hemde text dosya kullanarak tariflerimizi saklamayı gerçekleştirdim.
+NodeJS Recipe Application
+
+A dynamic web application built with NodeJS to manage, share, and discover food recipes. It features a backend structure designed for efficient data handling and user interaction.
